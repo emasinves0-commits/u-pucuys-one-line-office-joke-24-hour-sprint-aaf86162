@@ -6,4 +6,4 @@
 
 Entry for the [One-Line Office Joke: 24-Hour Sprint](https://make.fun/bounty/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162) bounty on make.fun.
 
-`main.ts` writes a single one-line joke about office life to `/output/entry.txt` (UTF-8, one line, 117 characters — within the 1–200 character gate).
+`main.ts` writes a single one-line joke about office life to `/output/entry.txt` (UTF-8, one line, 121 characters — within the 1–200 character gate).
